@@ -5,7 +5,7 @@ function App() {
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
       <section className="text-center py-20 bg-indigo-600 text-white">
-        <img src="/images/logo.svg" alt="Happlore Logo" className="mx-auto mb-8" />
+        <img src="/images/logo.png" alt="Happlore Logo" className="mx-auto mb-8" />
         <h1 className="text-5xl font-bold mb-4">Plan Your Dream Vacation</h1>
         <p className="text-xl mb-6">Custom travel packages to Bali, Thailand, Europe & more</p>
         <button className="bg-white text-indigo-600 px-6 py-3 rounded-xl hover:bg-indigo-200">
