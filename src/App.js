@@ -26,7 +26,7 @@ function App() {
             <h3 className="text-2xl mt-4">Thailand</h3>
           </div>
           <div>
-            <img src="/images/australia.jpg" alt="Australia" className="rounded-lg" />
+            <img src="/images/aus.jpg" alt="Australia" className="rounded-lg" />
             <h3 className="text-2xl mt-4">Australia</h3>
           </div>
         </div>
